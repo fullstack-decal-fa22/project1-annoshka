@@ -1,0 +1,47 @@
+
+
+h1 {
+    color: blueviolet;
+  }
+
+  * { 
+    font-family: 'Georgia';
+  }
+
+  .title {
+    color: blueviolet;
+  }
+
+  .uppercase {
+    text-transform: uppercase;
+  }
+
+  #student-name {
+    font-family: 'Cambria'; 
+  }
+
+  a:hover {
+    color: darkgreen;
+    }
+
+  h2 {
+    color: blueviolet;
+  }
+
+
+  h3 {
+    color: blueviolet;
+  }
+
+  h4 {
+    color: blueviolet;
+  }
+
+  h5 {
+    color: blueviolet;
+  }
+
+
+
+
+
